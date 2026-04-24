@@ -1,0 +1,2 @@
+;; Generated package description from dmsg.el  -*- mode: lisp-data; no-byte-compile: t; lexical-binding:t -*-
+(define-package "dmsg" "0.2.0.20260422.105206" "Timestamped debug messages with backtrace support" '((emacs "28.1")) :commit "b666e8cc1fe21570dfd3b1877a59da3bcba456e8" :authors '(("Al Haji-Ali" . "abdo.haji.ali@gmail.com")) :maintainer '("Al Haji-Ali" . "abdo.haji.ali@gmail.com") :keywords '("maint" "tools") :url "https://github.com/haji-ali/dmsg.el")
